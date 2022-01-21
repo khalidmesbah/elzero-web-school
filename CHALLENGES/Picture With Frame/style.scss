@@ -1,0 +1,136 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+@mixin center-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  min-height: 100vh;
+  @include center-flex();
+  font-family: sans-serif;
+}
+main {
+  width: 80vw;
+  border: 1px solid #aaa;
+  @include center-flex();
+  flex-wrap: wrap;
+  padding: 25px;
+  margin: 25px;
+  .left,
+  .right {
+    flex-basis: 50%;
+    flex-grow: 1;
+    display: flex;
+    @include center-flex();
+    padding: 25px;
+  }
+  .left {
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      border-radius: 5px;
+    }
+    .img {
+      height: 300px;
+      min-width: 300px;
+      position: relative;
+      .image {
+        @include center-flex();
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        z-index: 1;
+        transform: translateX(-30px);
+        &::before {
+          position: absolute;
+          content: "";
+          width: 100%;
+          height: 100%;
+          transform: translate(20%, 0%);
+          z-index: -1;
+          border: 15px solid #f88992;
+        }
+      }
+    }
+  }
+  .right {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 25px;
+    header {
+      align-self: start;
+      h1 {
+        font-size: 40px;
+        font-weight: bold;
+        text-transform: capitalize;
+      }
+      a {
+        margin-top: 20px;
+        position: relative;
+        padding-left: 60px;
+        display: flex;
+        align-items: center;
+        font-weight: 600;
+        color: #f3364b;
+        text-decoration: none;
+        &:is(:hover, :visited) {
+          color: #f3364b;
+        }
+        &::before {
+          position: absolute;
+          content: "";
+          width: 12px;
+          height: 12px;
+          border: 2px solid #f3364b;
+          left: 0;
+        }
+        &::after {
+          position: absolute;
+          content: "";
+          width: 40px;
+          height: 2px;
+          background: #f3364b;
+          left: 5px;
+        }
+      }
+    }
+    .cards {
+      @include center-flex();
+      flex-wrap: wrap;
+      gap: 30px;
+      .card {
+        min-width: 130px;
+        flex-basis: 100%/3;
+        aspect-ratio: 1/1;
+        border: 1px solid #ddd;
+        position: relative;
+        display: grid;
+        place-content: center;
+        gap: 10px;
+        img {
+          width: 80px;
+          height: 80px;
+        }
+        p {
+          text-transform: capitalize;
+          font-size: 14px;
+          font-weight: bold;
+        }
+        &::before {
+          position: absolute;
+          content: "";
+          border: 15px solid red;
+          border-color: #f3364b #f3364b #0000 #0000;
+          top: 3px;
+          right: 3px;
+        }
+      }
+    }
+  }
+}
