@@ -5,12 +5,10 @@
 | ---------- | -------- |
 | \[1-4\]    | [the solution]() |
 
-
 # CSS
 | assignment | solution |
 | ---------- | -------- |
 | \[1-4\]    | [the solution]() |
-
 
 # SASS
 | assignment | solution |
@@ -22,13 +20,17 @@
 | ---------- | -------- |
 | \[1-4\]    | [the solution]() |
 
-# JAVASCRIPT challenges
+# JAVASCRIPT CHALLENGES
 | assignment | solution |
 | ---------- | -------- |
 | \[1-4\]    | [the solution]() |
 
-# Front-End challenges
+# Front-End CHALLENGES
 | assignment | solution |
 | ---------- | -------- |
 | \[1-4\]    | [the solution]() |
 
+# Front-End TUTORIALS
+| assignment | solution |
+| ---------- | -------- |
+| \[1-4\]    | [the solution]() |
