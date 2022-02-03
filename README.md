@@ -1,6 +1,6 @@
 # Elzero-Web-School
 
-# HTML
+# [HTML] (https://codepen.io/collection/MgWvNj?)
 | assignment | solution |
 | ---------- | -------- |
 | \[1-4\]    | [the solution]() |
