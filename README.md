@@ -1,13 +1,25 @@
 # Elzero-Web-School
+My progress in Elzero Web School
 
-## [HTML](#html) [CSS](#css) [SASS](#sass) [JAVASCRIPT](#javascript) [JAVASCRIPT CHALLENGES](#javascript-challenges) [FRONT-END TUTORIALS](#front-end-tutorials) [FRONT-END CHALLENGES](#front-end-challenges)
+- [Elzero-Web-School](#elzero-web-school)
+- [HTML](#html)
+- [CSS](#css)
+- [SASS](#sass)
+- [JAVASCRIPT](#javascript)
+- [JAVASCRIPT CHALLENGES](#javascript-challenges)
+- [Front-End CHALLENGES](#front-end-challenges)
+- [FRONT-END TUTORIALS](#front-end-tutorials)
+- [TEMPLATES](#templates)
 
-# [HTML]() [TOP](#elzero-web-school)
+
+# [HTML]()
 | Assignments | Solultions  |
 | ----------- | ----------- |
 | \[1-4\]     | [preview]() |
+[TOP](#elzero-web-school)
 
-# [CSS](https://codepen.io/collection/MgWvNj?) [TOP](#elzero-web-school)
+
+# [CSS](https://codepen.io/collection/MgWvNj?)
 | Assignments     | Solultions                                             | ==> | Assignments  | Solultions                                             |
 | --------------- | ------------------------------------------------------ | --- | ------------ | ------------------------------------------------------ |
 | \[1-4\]         | [preview](https://codepen.io/KhalidMesbah/pen/PomoqPN) | ==> | \[5-8\] Q1   | [preview](https://codepen.io/KhalidMesbah/pen/ZELYZoa) |
@@ -46,16 +58,17 @@
 | \[78-82\] Q8    | [preview](https://codepen.io/KhalidMesbah/pen/abJWdXO) | ==> | \[83-85\] Q1 | [preview](https://codepen.io/KhalidMesbah/pen/XWpjgZq) |
 | \[83-85\] Q2    | [preview](https://codepen.io/KhalidMesbah/pen/bGgwaRa) | ==> | \[83-85\] Q3 | [preview](https://codepen.io/KhalidMesbah/pen/QWdKQbo) |
 | \[86-88\] Q1    | [preview](https://codepen.io/KhalidMesbah/pen/JjNjopZ) | ==> | \[86-88\] Q2 | [preview](https://codepen.io/KhalidMesbah/pen/zYNwgZz) |
+[TOP](#elzero-web-school)
 
-
-# SASS [TOP](#elzero-web-school)
+# SASS
 | Assignments | Solultions  |
 | ----------- | ----------- |
 | \[1-4\]     | [preview]() |
 | \[1-4\]     | [preview]() |
 | \[1-4\]     | [preview]() |
+[TOP](#elzero-web-school)
 
-# [JAVASCRIPT](https://codepen.io/collection/zxzrYG) [TOP](#elzero-web-school)
+# [JAVASCRIPT](https://codepen.io/collection/zxzrYG)
 | Assignments | Solultions                                             | ==> | Assignments    | Solutions                                              |
 | ----------- | ------------------------------------------------------ | --- | -------------- | ------------------------------------------------------ |
 | \[1-9\]     | [preview](https://codepen.io/KhalidMesbah/pen/gOWMpPo) | ==> | \[86-93\] Q1   | [preview](https://codepen.io/KhalidMesbah/pen/dyRjMpy) |
@@ -75,13 +88,15 @@
 | -----       | ------                                                 | ==> | \[102-110\] Q3 | [preview](https://codepen.io/KhalidMesbah/pen/gORBdBq) |
 | -----       | ------                                                 | ==> | \[102-110\] Q4 | [preview](https://codepen.io/KhalidMesbah/pen/KKqGxrd) |
 | -----       | ------                                                 | ==> | \[102-110\] Q5 | [preview](https://codepen.io/KhalidMesbah/pen/abwQqby) |
+[TOP](#elzero-web-school)
 
-# [JAVASCRIPT CHALLENGES]() [TOP](#elzero-web-school)
+# [JAVASCRIPT CHALLENGES]()
 | Assignments | Solultions  |
 | ----------- | ----------- |
 |             | [preview]() |
+[TOP](#elzero-web-school)
 
-# [Front-End CHALLENGES]() [TOP](#elzero-web-school)
+# [Front-End CHALLENGES]()
 | Assignments                | Solultions                                             |
 | -------------------------- | ------------------------------------------------------ |
 | Picture With Frame         | [preview](https://codepen.io/KhalidMesbah/pen/RwLdwBe) |
@@ -126,9 +141,9 @@
 | Hosting Plans Table        | [preview](https://codepen.io/KhalidMesbah/pen/oNZKyZb) |
 | Team Skills And Stats      | [preview](https://codepen.io/KhalidMesbah/pen/VwpoOLL) |
 | Circle And Boxes           | [preview](https://codepen.io/KhalidMesbah/pen/JjWgwGB) |
+[TOP](#elzero-web-school)
 
-
-# [FRONT-END TUTORIALS](https://codepen.io/collection/RzPqva) [TOP](#elzero-web-school)
+# [FRONT-END TUTORIALS](https://codepen.io/collection/RzPqva)
 | Assignments                          | Solultions                                             |
 | ------------------------------------ | ------------------------------------------------------ |
 | Customized Radio Inputs              | [preview](https://codepen.io/KhalidMesbah/pen/qBrdxGV) |
@@ -138,9 +153,11 @@
 | Hover To Show Tooltip                | [preview](https://codepen.io/KhalidMesbah/pen/jOyZrxy) |
 | Wave Audio Loading                   | [preview](https://codepen.io/KhalidMesbah/pen/yLMLQNX) |
 | A Ribbon Without Images              | [preview](https://codepen.io/KhalidMesbah/pen/QWdmeoO) |
+[TOP](#elzero-web-school)
 
-# [TEMPLATES]() [TOP](#elzero-web-school)
+# [TEMPLATES]()
 | Template | code                                            |
 | -------- | ----------------------------------------------- |
 | Leon     | [preview](https://github.com/khalidMesbah/Leon) |
+[TOP](#elzero-web-school)
 
