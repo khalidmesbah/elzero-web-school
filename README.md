@@ -12,10 +12,10 @@ My progress in Elzero Web School
 - [TEMPLATES](#templates)
 
 
-# [HTML]()
+# [HTML](https://codepen.io/collection/MgjxZg)
 | Assignment  | Solultion   |
 | ----------- | ----------- |
-| \[1-4\]     | [preview]() |
+| \[1-5\]     | [preview](https://codepen.io/KhalidMesbah/pen/PoObQav) |
 
 
 [TOP](#elzero-web-school)
