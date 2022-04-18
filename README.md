@@ -172,6 +172,10 @@ My progress in Elzero Web School
 | Hover To Show Tooltip                | [preview](https://codepen.io/KhalidMesbah/pen/jOyZrxy) |
 | Wave Audio Loading                   | [preview](https://codepen.io/KhalidMesbah/pen/yLMLQNX) |
 | A Ribbon Without Images              | [preview](https://codepen.io/KhalidMesbah/pen/QWdmeoO) |
+| Scroll To Top Using Y Practice       | [preview](https://codepen.io/KhalidMesbah/pen/yLXQKYv) |
+| Multiple Dotted Loader               | [preview](https://codepen.io/KhalidMesbah/pen/ZEvVMNr) |
+| mix blend loading                    | [preview](https://codepen.io/KhalidMesbah/pen/KKZbGJG) |
+| Animated Wavy Background             | [preview](https://codepen.io/KhalidMesbah/pen/YzYdRje) |
 
 
 [TOP](#elzero-web-school)
