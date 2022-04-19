@@ -13,7 +13,7 @@ My progress in Elzero Web School
 
 
 # [HTML](https://codepen.io/collection/MgjxZg)
-| Assignment | Solultion                                              |
+| Assignment | Solution                                              |
 | ---------- | ------------------------------------------------------ |
 | \[1-5\]    | [preview](https://codepen.io/KhalidMesbah/pen/PoObQav) |
 | \[6-10\]   | [preview](https://codepen.io/KhalidMesbah/pen/LYObmaW) |
@@ -29,7 +29,7 @@ My progress in Elzero Web School
 [TOP](#elzero-web-school)
 
 # [CSS](https://codepen.io/collection/MgWvNj?)
-| Assignment      | Solultion                                              | ==> | Assignment   | Solultion                                              |
+| Assignment      | Solution                                              | ==> | Assignment   | Solution                                              |
 | --------------- | ------------------------------------------------------ | --- | ------------ | ------------------------------------------------------ |
 | \[1-4\]         | [preview](https://codepen.io/KhalidMesbah/pen/PomoqPN) | ==> | \[5-8\] Q1   | [preview](https://codepen.io/KhalidMesbah/pen/ZELYZoa) |
 | \[5-8\] Q2      | [preview](https://codepen.io/KhalidMesbah/pen/ExZaJgo) | ==> | \[5-8\] Q3   | [preview](https://codepen.io/KhalidMesbah/pen/KKawLpZ) |
@@ -72,7 +72,7 @@ My progress in Elzero Web School
 [TOP](#elzero-web-school)
 
 # SASS
-| Assignment | Solultion   |
+| Assignment | Solution   |
 | ---------- | ----------- |
 | \[1-4\]    | [preview]() |
 | \[1-4\]    | [preview]() |
@@ -82,7 +82,7 @@ My progress in Elzero Web School
 [TOP](#elzero-web-school)
 
 # [JAVASCRIPT](https://codepen.io/collection/zxzrYG)
-| Assignment | Solultion                                              | ==> | Assignment     | Solution                                               |
+| Assignment | Solution                                              | ==> | Assignment     | Solution                                               |
 | ---------- | ------------------------------------------------------ | --- | -------------- | ------------------------------------------------------ |
 | \[1-9\]    | [preview](https://codepen.io/KhalidMesbah/pen/gOWMpPo) | ==> | \[86-93\] Q1   | [preview](https://codepen.io/KhalidMesbah/pen/dyRjMpy) |
 | \[10-17\]  | [preview](https://codepen.io/KhalidMesbah/pen/JjNRBQv) | ==> | \[86-93\] Q2   | [preview](https://codepen.io/KhalidMesbah/pen/oNwMxGX) |
@@ -106,7 +106,7 @@ My progress in Elzero Web School
 [TOP](#elzero-web-school)
 
 # [JAVASCRIPT CHALLENGES]()
-| Assignment | Solultion   |
+| Assignment | Solution   |
 | ---------- | ----------- |
 |            | [preview]() |
 
@@ -114,12 +114,12 @@ My progress in Elzero Web School
 [TOP](#elzero-web-school)
 
 # [Front-End CHALLENGES]()
-| Challenge                  | Solultion                                              |
+| Challenge                  | Solution                                              |
 | -------------------------- | ------------------------------------------------------ |
 | Picture With Frame         | [preview](https://codepen.io/KhalidMesbah/pen/RwLdwBe) |
 | Google Colors Animation    | [preview](https://codepen.io/KhalidMesbah/pen/PojeRdr) |
-| Booxed Footer              | [preview](https://codepen.io/KhalidMesbah/pen/WNjRdYx) |
-| Booxed Footer V2           | [preview](https://codepen.io/KhalidMesbah/pen/oNWWjzX) |
+| Boxed Footer              | [preview](https://codepen.io/KhalidMesbah/pen/WNjRdYx) |
+| Boxed Footer V2           | [preview](https://codepen.io/KhalidMesbah/pen/oNWWjzX) |
 | Wedding Invite             | [preview](https://codepen.io/KhalidMesbah/pen/ZEKBWvP) |
 | Gaming Profile Sections    | [preview](https://codepen.io/KhalidMesbah/pen/bGWBWqY) |
 | Food Menu And Sidebar      | [preview](https://codepen.io/KhalidMesbah/pen/vYmyeKL) |
@@ -163,7 +163,7 @@ My progress in Elzero Web School
 [TOP](#elzero-web-school)
 
 # [FRONT-END TUTORIALS](https://codepen.io/collection/RzPqva)
-| Challenge                            | Solultion                                              |
+| Challenge                            | Solution                                              |
 | ------------------------------------ | ------------------------------------------------------ |
 | Customized Radio Inputs              | [preview](https://codepen.io/KhalidMesbah/pen/qBrdxGV) |
 | Moving To Right Text Effect On Hover | [preview](https://codepen.io/KhalidMesbah/pen/yLgPPJz) |
@@ -176,6 +176,7 @@ My progress in Elzero Web School
 | Multiple Dotted Loader               | [preview](https://codepen.io/KhalidMesbah/pen/ZEvVMNr) |
 | mix blend loading                    | [preview](https://codepen.io/KhalidMesbah/pen/KKZbGJG) |
 | Animated Wavy Background             | [preview](https://codepen.io/KhalidMesbah/pen/YzYdRje) |
+| Burger Icon Transform Effects        | [preview](https://codepen.io/KhalidMesbah/pen/RwxEEZO) |
 
 
 [TOP](#elzero-web-school)
