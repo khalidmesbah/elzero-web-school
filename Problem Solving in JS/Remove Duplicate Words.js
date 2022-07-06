@@ -11,7 +11,10 @@ const removeDuplicateWords = (s) => {
     // }).join(' ');
 
     // return Array.from(new Set(s.split(' '))).join(' ');
-    return [...new Set(s.split(' '))].join(' ');
+
+    // return [...new Set(s.split(' '))].join(' ');
+
+    return [...s].reverse().join('').replace(/(\b\s.+\b)(?=.*\1)/g, '').split('').reverse().join('');
 };
 
 console.log(removeDuplicateWords('hello elzero web web hello school'));
