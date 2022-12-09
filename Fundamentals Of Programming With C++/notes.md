@@ -38,5 +38,12 @@
 - << => bitwise shift left 
 - "hi" => string literal
 - overloading is a from of polymorphism
-- 
+- `app.css` => source file that includes source code
+- `#include <iostream>` => a preprocessor statement
+- `#include` => preprocessor directive used for file inclusion 
+- `main function` => the entry point
 
+
+# Search about
+- cpp preprocessor directives list 
+- `return 0;` in the main function can be ignored cuz this is the default
