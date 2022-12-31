@@ -40,10 +40,19 @@
 - overloading is a from of polymorphism
 - `app.css` => source file that includes source code
 - `#include <iostream>` => a preprocessor statement
-- `#include` => preprocessor directive used for file inclusion 
+- `#include` => a preprocessor directive used for file inclusion 
 - `main function` => the entry point
+-  Directives in the source file tell the preprocessor to take specific actions. 
+-  `identifier` => unique name
+-  `variable` => data container with an identifier
+-  
 
 
 # Search about
-- cpp preprocessor directives list 
+- [x] cpp preprocessor directives list 
 - `return 0;` in the main function can be ignored cuz this is the default
+
+# Abbreviation
+- cout: character output
+- <<: stream insertion operator
+- 
