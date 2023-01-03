@@ -1,11 +1,8 @@
 #include <iostream>
-using namespace std;
-
-#define days 9;
 
 int main()
 {
-    const int a = 1;
-
-    cout << a;
+    std::cout << "I am a dragon1\n";
+    std::cout << "I am a dragon2\n";
+    std::cout << "I am a dragon3\n";
 }
