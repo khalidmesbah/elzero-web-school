@@ -45,7 +45,10 @@
 -  Directives in the source file tell the preprocessor to take specific actions. 
 -  `identifier` => unique name
 -  `variable` => data container with an identifier
--  
+-  `operand` => the part of an instruction that represents the data being manipulated by the operation
+-  `fractional component` => the 66454545 in 2.66454545
+   -  number.fractional component = 2.66454545
+-  use double instead of float
 
 
 # Search about
@@ -55,4 +58,16 @@
 # Abbreviation
 - cout: character output
 - <<: stream insertion operator
-- 
+
+
+# Data types ans their sizes in bytes
+- double-15 => 8
+- float-7 => 4
+- int => 2 or 4
+- bool => 1
+- char => 1
+- auto => _''.``_
+
+# Questions
+## how to know the memory location
+- &variableName
