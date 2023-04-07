@@ -49,6 +49,11 @@
 -  `fractional component` => the 66454545 in 2.66454545
    -  number.fractional component = 2.66454545
 -  use double instead of float
+-  we make sure that a number is a float not a double by adding the suffix f or F
+-  `10.6` => double
+-  `10.6f or 10.6F` => float
+-  float => 7 decimal precision
+-  double => 15 decimal precision
 
 
 # Search about
