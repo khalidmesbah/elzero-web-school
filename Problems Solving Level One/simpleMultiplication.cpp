@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// sol1 
+// sol1
 // #define t1 a % 2
 // #define t2 a * 8
 // #define t3 a * 9
@@ -10,7 +10,6 @@ using namespace std;
 // int simpleMultiplication(int a) { return ans; }
 
 int simpleMultiplication(int a) { return a % 2 == 0 ? a * 8 : a * 9; }
-
 
 int main() {
   simpleMultiplication(2);
